@@ -21,7 +21,8 @@ Install TUIC v5 🔥
 How to run ❓
 Run it only on a fresh install of Ubuntu 22.04.
 
-curl -O https://raw.githubusercontent.com/ErfanNamira/FreeIRAN/main/FreeIRAN.sh && chmod +x FreeIRAN.sh && sed -i -e 's/\r$//' FreeIRAN.sh && ./FreeIRAN.sh
+curl -O https://raw.githubusercontent.com/leipnar/ubuntu-server-setup/blob/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && ./setup.sh
+
 💠 After setup has completed, don't forget to:
 Add your desired adlists via Pi-hole web interface
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
