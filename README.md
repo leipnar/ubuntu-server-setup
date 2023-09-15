@@ -9,7 +9,7 @@ What does this script do? you can select to:
 4. Create SWAP File 💾
 5. Enable BBR 🛸
 6. Automatically update and restart the server every night at 01:00 GMT+3:30 ⏳
-7. Install X-UI (Alireza/MHSanaei) 🦄
+7. Install X-UI (Marzban) 🦄
 8. Install Pi-Hole Adblocker 🛡️
 9. Install & set WARP Proxy ✨
 10. Install Erlang MTProto Proxy 💫
