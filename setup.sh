@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Script: FreeIRAN.sh
-# Author: Namira
+# Script: setup.sh
+# Author: leipnar
 # Description: A simple bash script for setup Ubuntu Server.
-# https://github.com/ErfanNamira/FreeIRAN
+# https://github.com/leipnar/ubuntu-server-setup
 
 # Check for sudo privileges
 if [ "$EUID" -ne 0 ]; then
@@ -14,7 +14,7 @@ fi
 # Introductory message
 cat <<EOM
 
-FreeIRAN: A simple bash script for setting up Ubuntu Server
+leipnar: A simple bash script for setting up the Ubuntu Server
 What does this script do? You can select to:
 
 1. Update & Upgrade Server
@@ -23,7 +23,7 @@ What does this script do? You can select to:
 4. Create SWAP File
 5. Enable BBR
 6. Automatically update and restart the server every night at 01:00 GMT+3:30
-7. Install X-UI (Alireza/MHSanaei)
+7. Install X-UI (Marzban)
 8. Install Pi-Hole Adblocker
 9. Install & set WARP Proxy
 10. Install Erlang MTProto Proxy
