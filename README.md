@@ -23,8 +23,8 @@ Run it only on a fresh install of Ubuntu 22.04.
 
 curl -O https://raw.githubusercontent.com/leipnar/ubuntu-server-setup/blob/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && ./setup.sh
 
-💠 After setup has completed, don't forget to:
-Add your desired adlists via Pi-hole web interface
+💠 After setup has been completed, don't forget to:
+Add your desired ad lists via the Pi-hole web interface
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 https://big.oisd.nl/
