@@ -23,6 +23,9 @@ Run it only on a fresh install of Ubuntu 22.04.
 
 curl -O https://raw.githubusercontent.com/leipnar/ubuntu-server-setup/blob/main/setup.sh && chmod +x setup.sh && sed -i -e 's/\r$//' setup.sh && ./setup.sh
 
+[setup.sh](https://github.com/leipnar/ubuntu-server-setup/blob/55fe597537be4276105fe632a5ffe7fa2c8beeb3/setup.sh)
+
+
 💠 After setup has been completed, don't forget to:
 Add your desired ad lists via the Pi-hole web interface
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
