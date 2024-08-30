@@ -1,6 +1,4 @@
 # ubuntu-server-setup
-# FreeIRAN 🕊️
-🌟 A simple bash script for setting up Ubuntu Server
 
 What does this script do? you can select to:
 1. Update & Upgrade Server 🧬
@@ -186,9 +184,4 @@ https://github.com/seriyps/mtproto_proxy
 https://github.com/P3TERX/warp.sh
 https://github.com/blocklistproject/Lists
 ```
-## Buy Me a Coffee ☕❤️
-```
-Tron USDT (TRC20): TMrJHiTnE6wMqHarp2SxVEmJfKXBoTSnZ4
-LiteCoin (LTC): ltc1qwhd8jpwumg5uywgv028h3lnsck8mjxhxnp4rja
-BTC: bc1q2tjjyg60hhsuyauha6uptgrwm32sarhmjlwvae
-```
+
